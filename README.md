@@ -3,7 +3,7 @@ AATHis is the readme content and let me update and we are learning.....updated c
 this is test 
 testassdad adesh here
 this is my first upate
-hello 
+hello hi what are u doing?
 hi
 this is my final repo adsadad
 this is the update
